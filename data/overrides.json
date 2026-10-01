@@ -355959,6 +355959,87 @@
       "matched": true,
       "via": "tmdb",
       "tmdb_kind": "tv"
+    },
+    "4d8ce03c-be1c-4b63-8414-726c63e6dbdc:en": {
+      "title": "X-Men: First Class",
+      "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+      "tmdb_id": 49538,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "cc4e1ca4-4c14-4288-bf3f-f4e590314fc4:en": {
+      "title": "X2",
+      "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join Magneto and Mystique to unhinge Stryker's scheme to exterminate all mutants.",
+      "tmdb_id": 36658,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "36c8715e-9095-4276-a461-986677cd3966:en": {
+      "title": "X-Men",
+      "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+      "tmdb_id": 36657,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "c5303b69-4fd1-497c-97a3-225813ee8f53:en": {
+      "title": "X-Men: Days of Future Past",
+      "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+      "tmdb_id": 127585,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "cf1365af-7368-4d0c-9abd-653c7db12dad:en": {
+      "title": "After Impact",
+      "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
+      "tmdb_id": 1751701,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "4ca32dd1-d460-4564-8f1e-18564e7fce17:en": {
+      "title": "The Luckiest Man in America",
+      "overview": "1984; Michael Larson, an unemployed ice-cream truck driver from Ohio, steps onto the game show \"Press Your Luck\" harboring a secret: the key to endless amounts of money. But his winning streak is threatened when the executives in the control room start to uncover his real motivations.",
+      "tmdb_id": 1288070,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "e77dbaa4-e18c-4ced-be49-e800e9eb9047:en": {
+      "title": "Ghost in the Cell",
+      "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "tmdb_id": 1393326,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "25d80863-d5b8-47b1-a40f-1c3085d0425c:en": {
+      "title": "Rosebush Pruning",
+      "overview": "When an American heir living in a luxurious Spanish villa decides to move in with his girlfriend, his departure triggers a family collapse as his brother uncovers the truth behind their mother's tragic death.",
+      "tmdb_id": 1130948,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "9de33fb1-2fdc-4b27-8a09-d3c24098ed8c:en": {
+      "title": "The Nice Ones",
+      "overview": "When Kate joins her boyfriend’s friends at a remote countryside retreat, old wounds resurface as strange lights appear in the sky. As unease grows, members of the group begin to change—becoming unnervingly calm, kind, and “nice.” Dismissed as unstable, Kate struggles to convince the others something is wrong before the force behind it spreads.",
+      "tmdb_id": 1767073,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
     }
   },
   "linkScan": {
