@@ -25733,11 +25733,12 @@
       },
       "2026-10-01": {
         "views": 3,
-        "plays": 3,
+        "plays": 5,
         "searches": 0,
         "visitors": [
           "SQ_L0jFlrSu0DibH",
-          "42cse4_Q6rZBXtNW"
+          "42cse4_Q6rZBXtNW",
+          "ucT1zUAbe0TKpE6N"
         ]
       }
     },
@@ -25779,7 +25780,7 @@
         "title": "באטמן וסופרמן: הסרט"
       },
       "live_d23243cd-20e0-4cd3-b47b-3af04936f59a": {
-        "plays": 23,
+        "plays": 24,
         "title": "כאן11"
       },
       "021a7d63-2288-486f-a992-b77129c39337": {
@@ -26055,7 +26056,7 @@
         "title": "HOT משפחה"
       },
       "live-671fdf166f": {
-        "plays": 1,
+        "plays": 2,
         "title": "חגחג"
       },
       "da1ff7f3-7e65-48cb-8ca4-19aee3ddebd0": {
@@ -356052,9 +356053,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "uIlLFRVQIvIu6XUY",
-    "tag": "EahYwA3tNn4d7ELeZe/XdA==",
-    "data": "0N0mQWUevEhK1IRDSnzfqRfgS+cMoGyssyH3dH3ufOJs7C1QUavnRKE9++kwdHdKzunhk86ND51xrEMrA35/h9zcEr9PR5IROfUaAstM4URHLyTIzGYS+Bk4xHvfz7ApcHm2TbvucnWqH9x+3vyO6xSa82DGglVYJwlKJG+JbGEH1e/k+Wg/TwiBBCGUydEeQIe9WaKvubqJIRu+VHmgwsOwV5BRwrf304P7CwsJvbZJRvhS3DuP4shwjWiQMiP9AE8kidZRbIpWyx4uIa87jpYWzvZNpnpURVWPXhQZe69iBwwAQBDKvgsNnUAjAEnbZzeV+SLD82FM0znKnFp00HgfAi/Ke3Bkx09WbE3YaOCNuA3hjADeTC5IbV/FlW1d/RfhqC/rNbPuCecM17lD7TzPtaj4+XaYEJNtSS8CDCSH5dRlBfXit+T0H6gf85wqQ4ACkHcGxaekQuOFd6a948gsz3UYN28MGmh3QHbU/zcXMn+RykSREc5AAj2IWaV+Rf5VH0fYN4c="
+    "iv": "GuIuq5+yi5Wm4R7Y",
+    "tag": "ixGNPJMzrvJDL9pjBCLgCg==",
+    "data": "DuS6/Wiarnk16jxukLcJwAqzbchgKHwK1kSprQUa7tU0f+NUzVYw/SbEElM3UdOWa/BMiy51t0p6nVe4Hbb+0oKNy+/fa1zpeQaCM8Onia3Irnoz/eK/aoDPWAwQEdbZT8vecAi+f119KTHK+4wCUQzSzkS56V87i4yi/JAafhPQwc4jHXdcOJNJKlKuPitDU6cc9Jecwt4hdrWvS/jS8Xzj/3cWQIRULECt0IK6iwz5PWyeWDEOI75PBDOHUJIW9LBa0jCTpSX2xDhxqMgttIoIiF0SqJUOyB1a8IQyCqR+9pYI+1C3b55ScplCILV+Xd8TT09a3i6fu34RfSq3puUcmT+b9fgBMhdf3MVatAEB2kbZGMpT4xAACYnituBcQFES77ZFwhWuvtzulALU8MIPoCQrFxIsSovnokrquXLso0YHZO4V1ne2Qz3AzcJL3mMrFtyulJBImSvy/pc54ShGDAww+K42D7UeeQQbgxWBvis12oDzWwsOrne6jDd/ZqLS5ozOGt8="
   },
   "customPages": [],
   "contentRequests": [
