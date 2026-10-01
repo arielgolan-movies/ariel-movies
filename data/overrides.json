@@ -25732,11 +25732,12 @@
         ]
       },
       "2026-10-01": {
-        "views": 2,
-        "plays": 2,
+        "views": 3,
+        "plays": 3,
         "searches": 0,
         "visitors": [
-          "SQ_L0jFlrSu0DibH"
+          "SQ_L0jFlrSu0DibH",
+          "42cse4_Q6rZBXtNW"
         ]
       }
     },
@@ -26076,6 +26077,10 @@
       "6d0f968f-91d8-4809-800e-fcff027e26db": {
         "plays": 1,
         "title": "ארץ פצועה"
+      },
+      "aa08f63d-3833-4108-ad82-e15a6bbe2ba3": {
+        "plays": 1,
+        "title": "ראנר"
       }
     },
     "zeroSearch": {
