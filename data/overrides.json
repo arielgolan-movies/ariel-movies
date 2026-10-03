@@ -25744,10 +25744,12 @@
       "2026-10-03": {
         "views": 0,
         "plays": 6,
-        "searches": 0,
+        "searches": 1,
         "visitors": [
           "QxHhaAtob9p_QZEy",
-          "pX5VnfzY-iXdx_mB"
+          "pX5VnfzY-iXdx_mB",
+          "B-qfCT4-tZTZHgpW",
+          "ljBoQwUcJ8WxWzzB"
         ]
       }
     },
@@ -26065,7 +26067,7 @@
         "title": "HOT משפחה"
       },
       "live-671fdf166f": {
-        "plays": 4,
+        "plays": 6,
         "title": "חגחג"
       },
       "da1ff7f3-7e65-48cb-8ca4-19aee3ddebd0": {
@@ -26099,14 +26101,6 @@
       "f416d8c6-d0fe-47fc-a2b3-7e6893378af6": {
         "plays": 1,
         "title": "טין ניק"
-      },
-      "a484a919-93b1-48ad-9f17-641319aee847": {
-        "plays": 1,
-        "title": "ניקולודיון"
-      },
-      "348afbc1-0444-475a-8e77-e6a0d3153b51": {
-        "plays": 1,
-        "title": "yes Action"
       }
     },
     "zeroSearch": {
@@ -26127,7 +26121,8 @@
       "על הכוונת": 1,
       "השמועה": 1,
       "s.w.a.t": 6,
-      "מצולמים": 1
+      "מצולמים": 1,
+      "מה קורה": 1
     }
   },
   "settings": {
@@ -356177,12 +356172,10 @@
     {
       "id": "671fdf166f",
       "name": "חגחג",
-      "url": "https://ariel-movies-a855.onbelmo.uk/api/play/ea9b73d9-9e4a-4836-864b-e2103a7f9709",
+      "url": "https://ariel-movies.onrender.com/api/play/ea9b73d9-9e4a-4836-864b-e2103a7f9709",
       "logo": "",
       "cat": "",
-      "created_at": "2026-09-25T01:06:54.294Z",
-      "kind": "link",
-      "updated_at": "2026-10-03T12:27:56.625Z"
+      "created_at": "2026-09-25T01:06:54.294Z"
     }
   ],
   "liveBuiltinCats": {},
