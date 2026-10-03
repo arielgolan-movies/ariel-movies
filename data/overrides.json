@@ -356149,7 +356149,1096 @@
     "tag": "Gyi5VtL5sN8BO6bO06ceww==",
     "data": "0dZb1ViV9sTtU2eoATXgJuk6IVQcHKgRYqcQsfR/MEbPi8NN+pMp8lSEZ62nlLk6KCZHR5LGq8qSlBML2Ynm+xuOzceZsBxttnkGb+HwrbBJtAZbtQZVHWMqPK9KqnqvabRsWndIhAUumg2sS4MqUp8uLMf3Ok5c0ZrRzBSKQjxkkudvvhgDgW0o/g7Hf0Mue0cicjtjTT/2GTHLQ0hjQruBpQg4f9IBOhqqjBXmnJCKXkfP97qaIgw0q1G3dHIxbtoG+UVhM3Ts1b6mdBxnp/SIk5An0sa0J9Dz/+00Pi7g2L3rN05rO56o4XUJZLOKaKBN/LcHhGVXCBEgQy1Hp4tZfp+tMv7JS4YEHIkGaC8bgIG9rn6oLU416g7ky0mmxiNDC/MCqdQsK2s5Ay5sfdVd7V9vwInGPX+G4gb+0aC5d6J+1L4UxQIIDiuoeiukng0G5rfjgraQ+spqrphE6SyO5W/2HESeYjERzMlr2ge0/95q/0oROFXpjK8HmjnOXvvH30aEjEE="
   },
-  "customPages": [],
+  "customPages": [
+    {
+      "id": "02c8553a-b978-4bc4-b630-455c06719809",
+      "slug": "lives",
+      "title": "שידורים חיים",
+      "subtitle": "",
+      "icon": "📡",
+      "dir": "rtl",
+      "published": true,
+      "showInMenu": false,
+      "menuOrder": 0,
+      "theme": {
+        "bg": "",
+        "text": "",
+        "accent": "",
+        "card": "",
+        "bgImage": "",
+        "heroImage": "",
+        "width": "normal",
+        "font": "default",
+        "hideTitle": false
+      },
+      "blocks": [
+        {
+          "id": "liveb1",
+          "type": "buttons",
+          "align": "center",
+          "bg": "",
+          "padding": 0,
+          "hidden": false,
+          "items": [
+            {
+              "label": "ספורט 6",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "הוט משפחה גיבוי",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ערוץ 9",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "קריוקי",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "נשיונל ווילד",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "נשיונל גאוגרפיק",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ערוץ ההיסטוריה",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "פרי דוקו",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "בייבי",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ערוץ גוניור",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ערוץ לולי",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "טין ניק",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ניקולודיון",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ערוץ הכוכבים",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דיסני ג'וניור",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "סלקום קידס",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ויוה טלנובלות",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ויוה פרימיום",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ויוה וינטג'",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ויוה איסטנבול",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דרמות הודיות 2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דרמות הודיות 1",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דרמות ספרדיות 2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דרמות ספרדיות 1",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דרמות טורקיות 3",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דרמות טורקיות 2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דרמות טורקיות +",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV אוכל",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV לייף סטייל",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV משפחה",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV קומדיה 2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV ישראל",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TVקומדיה",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT בידור",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT סדרות",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT ריל",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT 8",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT 3",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT משפחה",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "cellcom קולנוע הישראלי",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV גלובלי",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREETV אימה",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV דרמה",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV רומנטיקה",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "FREE TV סרטים",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT GOLD",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT cinema 4",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT cinema 3",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "Hotcinema2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT cinema1",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "UFC",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "one edge",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "one 2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "one 1",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 5 גולד",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 5 סטארס",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דסני",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "זום",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "הוט זון",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "הוט דרמה",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 5",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "Mako(+12)",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "כאן חינוכית",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "רשת 13",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "C14",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "i24",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "כאן11",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "Yes Movies Action",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "הופ!",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ים תיכוני",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "חיים טובים",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ערוץ 24",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ערוץ הכנסת",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ערוץ 98",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "בית+",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "yes ישראלי",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "yes Drama",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "yes Comedy",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "yes Action",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT HBO",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "דיסקברי",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "Health",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "מכאן 33",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 4",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "יורוספורט 2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "Food Network",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT Comedy",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 1",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 3",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "סרטים הודיים — Bollywood",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "yes Movies Comedy",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "yes Movies Drama",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "yes Movies Kids",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "HOT Real",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "WIZ",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ניק ג'וניור",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "E!",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "yes דוקו",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "הדרמות הטורקיות+",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "הדרמות הטורקיות 2",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "הדרמות הטורקיות 3",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 5 לייב",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 5 מקס",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            },
+            {
+              "label": "ספורט 5 פלוס",
+              "url": "",
+              "image": "",
+              "icon": "",
+              "target": "auto",
+              "style": "solid",
+              "color": "",
+              "textColor": ""
+            }
+          ],
+          "columns": 3,
+          "shape": "rounded"
+        }
+      ],
+      "created_at": "2026-10-03T13:39:25.266Z",
+      "updated_at": "2026-10-03T13:39:25.266Z"
+    }
+  ],
   "contentRequests": [
     {
       "id": "0263289e-6f57-4672-8639-0060ca676d23",
