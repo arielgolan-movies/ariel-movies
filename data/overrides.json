@@ -25743,7 +25743,7 @@
       },
       "2026-10-03": {
         "views": 0,
-        "plays": 4,
+        "plays": 6,
         "searches": 0,
         "visitors": [
           "QxHhaAtob9p_QZEy",
@@ -26099,6 +26099,14 @@
       "f416d8c6-d0fe-47fc-a2b3-7e6893378af6": {
         "plays": 1,
         "title": "טין ניק"
+      },
+      "a484a919-93b1-48ad-9f17-641319aee847": {
+        "plays": 1,
+        "title": "ניקולודיון"
+      },
+      "348afbc1-0444-475a-8e77-e6a0d3153b51": {
+        "plays": 1,
+        "title": "yes Action"
       }
     },
     "zeroSearch": {
@@ -356172,7 +356180,9 @@
       "url": "https://ariel-movies.onrender.com/api/play/ea9b73d9-9e4a-4836-864b-e2103a7f9709",
       "logo": "",
       "cat": "",
-      "created_at": "2026-09-25T01:06:54.294Z"
+      "created_at": "2026-09-25T01:06:54.294Z",
+      "kind": "link",
+      "updated_at": "2026-10-03T12:27:56.625Z"
     }
   ],
   "liveBuiltinCats": {},
