@@ -122,7 +122,7 @@ jobs:
           import androidx.mediarouter.media.MediaRouteSelector;
 
           public class MainActivity extends Activity {
-            private static final String HOME="https://ariel-movies.onrender.com/";
+            private static final String HOME="https://ariel-movies-a855.onbelmo.uk/";
             private WebView web;
             private ValueCallback<Uri[]> fileCallback;
             private static final int FILE_CHOOSER=9001;
@@ -138,7 +138,7 @@ jobs:
               CookieManager.getInstance().setAcceptCookie(true); CookieManager.getInstance().setAcceptThirdPartyCookies(web,true);
               web.addJavascriptInterface(new Object(){ @JavascriptInterface public void googleLogin(){runOnUiThread(()->new CustomTabsIntent.Builder().setShowTitle(false).build().launchUrl(MainActivity.this,Uri.parse(HOME+"auth-mobile")));} @JavascriptInterface public void share(String title,String text,String url){runOnUiThread(()->{Intent send=new Intent(Intent.ACTION_SEND);send.setType("text/plain");send.putExtra(Intent.EXTRA_SUBJECT,title);send.putExtra(Intent.EXTRA_TEXT,text+"\n"+url);startActivity(Intent.createChooser(send,"שיתוף באמצעות"));});} @JavascriptInterface public void cast(String url,String title,String mime){runOnUiThread(()->{startCast(url,title,mime);});} @JavascriptInterface public void setPlaying(boolean p){runOnUiThread(()->{mediaPlaying=p;updatePipParams();});}},"ArielNative");
               web.setWebViewClient(new WebViewClient(){@Override public boolean shouldOverrideUrlLoading(WebView v, WebResourceRequest r){
-                Uri u=r.getUrl(); if("ariel-movies.onrender.com".equals(u.getHost())) return false;
+                Uri u=r.getUrl(); if("ariel-movies-a855.onbelmo.uk".equals(u.getHost())) return false;
                 if("arielmovies".equals(u.getScheme())){handleAuth(new Intent(Intent.ACTION_VIEW,u));return true;} startActivity(new Intent(Intent.ACTION_VIEW,u)); return true; } @Override public void onPageFinished(WebView v,String url){super.onPageFinished(v,url);applyPendingAuth();}});
               web.setWebChromeClient(new WebChromeClient(){
                 @Override public void onShowCustomView(View view, CustomViewCallback cb){ setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR_LANDSCAPE); setContentView(view); }
