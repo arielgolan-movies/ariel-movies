@@ -25743,10 +25743,11 @@
       },
       "2026-10-03": {
         "views": 0,
-        "plays": 1,
+        "plays": 4,
         "searches": 0,
         "visitors": [
-          "QxHhaAtob9p_QZEy"
+          "QxHhaAtob9p_QZEy",
+          "pX5VnfzY-iXdx_mB"
         ]
       }
     },
@@ -25972,7 +25973,7 @@
         "title": "ערוץ גוניור"
       },
       "live_4692f62b-3b80-40f4-b345-9fe79b8c61e4": {
-        "plays": 5,
+        "plays": 6,
         "title": "כאן חינוכית"
       },
       "live_e0feb41e-e47b-45ac-9368-c70753f2e1e9": {
@@ -26064,7 +26065,7 @@
         "title": "HOT משפחה"
       },
       "live-671fdf166f": {
-        "plays": 3,
+        "plays": 4,
         "title": "חגחג"
       },
       "da1ff7f3-7e65-48cb-8ca4-19aee3ddebd0": {
@@ -26094,6 +26095,10 @@
       "kan-official-qaZ2zkI_X-U": {
         "plays": 1,
         "title": "בהסתורה"
+      },
+      "f416d8c6-d0fe-47fc-a2b3-7e6893378af6": {
+        "plays": 1,
+        "title": "טין ניק"
       }
     },
     "zeroSearch": {
