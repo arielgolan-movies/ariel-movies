@@ -25847,8 +25847,8 @@
         ]
       },
       "2026-10-10": {
-        "views": 3,
-        "plays": 2,
+        "views": 6,
+        "plays": 4,
         "searches": 0,
         "visitors": [
           "XnyBrv-bki7IyBDr"
@@ -25893,7 +25893,7 @@
         "title": "באטמן וסופרמן: הסרט"
       },
       "live_d23243cd-20e0-4cd3-b47b-3af04936f59a": {
-        "plays": 25,
+        "plays": 26,
         "title": "כאן11"
       },
       "021a7d63-2288-486f-a992-b77129c39337": {
@@ -26239,6 +26239,10 @@
       "63ed078e-3f8e-4201-a56a-8bcbc8bd6abc": {
         "plays": 1,
         "title": "מציצים"
+      },
+      "4db5534c-3d71-4463-9db8-b6f1e6a30d01": {
+        "plays": 1,
+        "title": "חינה אמריקאית"
       }
     },
     "zeroSearch": {
@@ -417843,9 +417847,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "Kn3lLM5SFagHVbU/",
-    "tag": "IvGmWp9pcv59ks5jwG9JyA==",
-    "data": "BYGAcA9kozoT7Bcp0uVdfmwV+IHYqCWo0e3GS3/f5q9AnFT3Hc5Gd745VAG1wuNt0awDN8lY46l9AuPqxvW8HihT83I7tBX9KboWeCEyriBMYPm9O5PbeowVC3G6LY8JTe+NOhigkCopjkzuwJM03q+7g9fPdHhqRSoP4X9nfzHrSdC69XrAQsy8Vm7J2vD8oZ1kH9ZrxF9cd+er3w1HHSq3pR9tQhMuN3+CjbLnLZfc0FulaCVeW1Olf9ElrVYx1CSnCKev6MJx0kRm8T5h6xUIOBS/1MbjZJS+0K9ebSuglVKhmlcMTTwAuY46oS3iRh752Z+x5ed3pCTM5DrQhsmI+d9gx6ZhsN2uSdHN91NVvpQACNq2Few914kHRs0NaZxEyZiFy1GppJkRrP+jJIBE/A7XrieUOe+qFmvOr6ttXOYZrx8jJoT9/SXDP/a5GYQt7MsRqaZH7AXTdmlziOwZzPE+uPyCVXAh3a43yqNRA9WiXl6cEONsjDKJtG0Ix4z8nH61ce4="
+    "iv": "IWdw9rFtSFGYMUVJ",
+    "tag": "/qWqk/x+RAxKweds4tPOZg==",
+    "data": "6FyiLhD6u2/iuBTGJ3tZ4czC7/dzGS0u+IQZgZFSJuiYYfk9ejhMg3qOlvwTztT9StYWINcc9Vq7JOzSGZwj9/O+3pXxK9/Uh+7lKckZvrHIBoeJHSTRy/enpbmufpeGRuYNJNUTSZeDocZjYWpmtd5HtH2K5kM0aaDokgTtMWxUIn8sGIOlrVpGOI+QNaxwO2PiA0kINrRDq/+zpNdfrnAeOecbe7Zk0WmT1Cy5e6bmrxO6fnDGw5QLv7YtVkLGfHSEo+Q9qipj9YTHs3h7bAK1JOC4K/PKr/3vR5lnDsk4toqDbE2XF7+G5SqNwnibUXCHr3sEibKaIDFY5sSZThDPKm/Az0UCfPkoovczHNZSCptBbI+xTOkNb9VjSgwyrLT2dirP19hXiuh6t27j37JZd/Y+2cmE0XML3cVRhaB95cChqCX/8kmw7ZZzNCuZtu+N8b4EyxrPjlt51N/hjUqfTYMYMj5503abUGURv8rygWBVueN/5oFEd+dkOErELBflRugGR9Y="
   },
   "customPages": [],
   "contentRequests": [
