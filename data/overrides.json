@@ -25845,6 +25845,14 @@
         "visitors": [
           "1c_nh1hdq6jHOVUk"
         ]
+      },
+      "2026-10-10": {
+        "views": 0,
+        "plays": 1,
+        "searches": 0,
+        "visitors": [
+          "XnyBrv-bki7IyBDr"
+        ]
       }
     },
     "top": {
@@ -26223,6 +26231,10 @@
       "tmnt-1273-15886": {
         "plays": 1,
         "title": "צבי הנינג'ה"
+      },
+      "82b1a8bc-c417-4156-9942-98f54c813d59": {
+        "plays": 1,
+        "title": "מיניונים ומפלצות"
       }
     },
     "zeroSearch": {
@@ -417827,9 +417839,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "dUicd34meUffzXyi",
-    "tag": "SQ2ZWvabX1fLVR+l/9XUSg==",
-    "data": "Ex0Y3p/ROT1bk0zXM07x598nnuCPpLL0yRnCkntKms+GI8TnvPdey7jSojOjZ56U+LmdTgt/Df/2WZAlmeaZiy/D/roT/KMSy/OCRajnjhP/sKHEO1k0feuboWkgj+kIXpr5wqmecWWIZybbs11aDlLjmtKvs2AOu2Y4DOfGiJdDlLmfAerN5VlM+5p60heQIJLgXcT6a690LAR+GDZsdY2oH+Otq4VYc4HXA0j/7pTXq1obzkdIFN3Jqd2RtAnvAI/2INqjBORwRfYbi1V8iIxzacLXfEM0BLCHSKf6SKZ+EUcuAgNSuxJgWVaBnO+P2HlvWudpZVrAZ5/JWjYA7n2g9814XasjnHECgi49Kel/NiRoktqofADyIBGtNntaLfsd5H4yVOLduMOeHy6Y0SsZfgYAGUror/v2MBL7kwz58lkdfi9D10QLj+ej7Xx/Oa35H2yre9ZsHOSSGX8eW6jjE33lg1+W5tw9N0/NG2Hqqbmw7/PfpCbWZHze23D+RBqtXb90CiE="
+    "iv": "ann77pP5ILRreXRk",
+    "tag": "mxd74CRwBDsT3Jsas7Cu4A==",
+    "data": "HDxEQ+79yzHWMUFN7oD4jBvlxEYUJwc2VkoT1dfugRl0W0HXk+3gaJahZaSyoAwnM2sZWy1sHYzMrrwoFCn1uFVx9uR1JSx+ExVqrId9ZK1VPDv+7ocmylAi9UJYWFEI6F6bPJZTqCIwMIbPStYP4SxTZlCGHGoJS9AkQsvztT9WfOJHAv27j/qi4uCOQtpoyIqVnTLDM8DDYJAkjPiqeSuAmsYy4DyRc7yFOFy+jb3T3t2DQoVB/oBb/f0T0+8+ZVhAVf4LfOmePlr/icO1+tRmEDsz8qXXhxZXgm7/3OQEkaBD+yviKKcu8xKBBF2J1EZiq06NKu75/S9WZs3qca90jkT/Ai8kal2BeAMX6UAJaYz/Autb271onjamgHKp6NKei02uYc+ycZ0k8bREkmHaBnB6GBUEIgsCEJTsz44+FCSJIq2cFWGtk7MQrQLC4OUEZFxblP944nI5FIaKmV5yEEeAEQFKjmwE7DCtTjwI00YH9aynlTXQlZ9cXFiZvFUt5De2JjI="
   },
   "customPages": [],
   "contentRequests": [
