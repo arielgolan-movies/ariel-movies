@@ -212,7 +212,46 @@ function refreshLogin(){document.querySelectorAll('[data-rq-login]').forEach(fun
 try{auth.onAuthStateChanged(function(u){refreshLogin();clearInterval(pollTimer);mine=null;setDots(0);if(u){setTimeout(check,1500);pollTimer=setInterval(check,60000)}else{var tt=document.getElementById('rqToast');if(tt&&tt.dataset.key)tt.remove()}var p=document.querySelector('#drawerPanel [data-rq-panel]');if(p)window.rqPanel(document.getElementById('drawerPanel'));var em=document.getElementById('empty');if(em&&em.dataset.rq&&!em.classList.contains('hidden'))window.rqEmptyRender(false)})}catch(e){}
 document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible')check()});
 })();
-</script></body></html>
+</script><script>
+/* Keep the screen awake while a title is playing. Screen Wake Lock API; no-op where unsupported. */
+(function(){
+var lock=null,want=false,busy=false;
+function mount(){return document.getElementById('playerMount')}
+function inMount(el){var m=mount();return !!(m&&el&&m.contains(el))}
+function acquire(){
+  if(!want||lock||busy||!navigator.wakeLock||document.visibilityState!=='visible')return;
+  busy=true;
+  navigator.wakeLock.request('screen').then(function(l){
+    busy=false;
+    if(!want){l.release().catch(function(){});return}
+    lock=l;window.__wakeLockActive=true;
+    l.addEventListener('release',function(){if(lock===l){lock=null;window.__wakeLockActive=false}});
+  }).catch(function(){busy=false});
+}
+function release(){
+  want=false;native(false);
+  var l=lock;lock=null;window.__wakeLockActive=false;
+  if(l)l.release().catch(function(){});
+}
+function native(on){try{if(window.ArielNative&&window.ArielNative.keepAwake)window.ArielNative.keepAwake(on)}catch(e){}}
+function hold(){want=true;native(true);acquire()}
+document.addEventListener('play',function(e){if(e.target&&e.target.tagName==='VIDEO'&&inMount(e.target))hold()},true);
+document.addEventListener('playing',function(e){if(e.target&&e.target.tagName==='VIDEO'&&inMount(e.target))hold()},true);
+document.addEventListener('pause',function(e){if(e.target&&e.target.tagName==='VIDEO'&&inMount(e.target))release()},true);
+document.addEventListener('ended',function(e){if(e.target&&e.target.tagName==='VIDEO'&&inMount(e.target))release()},true);
+document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible'&&want)acquire()});
+function watch(){
+  var m=mount();if(!m){return setTimeout(watch,500)}
+  /* embedded players (YouTube iframe) cannot report pause, so hold while the player is open; release when it closes */
+  new MutationObserver(function(){
+    if(m.querySelector('iframe'))hold();
+    else if(!m.querySelector('video'))release();
+  }).observe(m,{childList:true,subtree:true});
+}
+watch();
+})();
+</script>
+</body></html>
 
 
 
