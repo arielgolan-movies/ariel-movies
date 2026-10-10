@@ -25847,8 +25847,8 @@
         ]
       },
       "2026-10-10": {
-        "views": 0,
-        "plays": 1,
+        "views": 3,
+        "plays": 2,
         "searches": 0,
         "visitors": [
           "XnyBrv-bki7IyBDr"
@@ -26235,6 +26235,10 @@
       "82b1a8bc-c417-4156-9942-98f54c813d59": {
         "plays": 1,
         "title": "מיניונים ומפלצות"
+      },
+      "63ed078e-3f8e-4201-a56a-8bcbc8bd6abc": {
+        "plays": 1,
+        "title": "מציצים"
       }
     },
     "zeroSearch": {
